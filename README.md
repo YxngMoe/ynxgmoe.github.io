@@ -1,61 +1,37 @@
-My GitHub Pages Site
-Welcome to my GitHub Pages site! This site is hosted directly from this repository, and you can use it to showcase your projects, documentation, or anything else you'd like to share with the world.
+## Welcome to GitHub Pages
 
-Table of Contents
-About
-Features
-Installation
-Usage
-Contributing
-License
-Contact
-About
-This is a simple GitHub Pages site created to demonstrate how to use GitHub Pages and to provide a template for others to use. You can replace this section with information about your own project or website.
+You can use the [editor on GitHub](https://github.com/tonyflo/demo/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Features
-Easy to set up and deploy
-Hosted directly from your GitHub repository
-Customizable with HTML, CSS, and JavaScript
-Supports Markdown for content creation
-Installation
-To set up this project locally, follow these steps:
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Clone the repository:
+### Markdown
 
-sh
-Copy code
-git clone https://github.com/yourusername/your-repo-name.git
-Navigate to the project directory:
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-sh
-Copy code
-cd your-repo-name
-Open the index.html file in your web browser to view the site locally.
+```markdown
+Syntax highlighted code block
 
-Usage
-To use this template for your own GitHub Pages site, follow these steps:
+# Header 1
+## Header 2
+### Header 3
 
-Fork this repository to your own GitHub account.
-Clone the forked repository to your local machine.
-Customize the content in the index.html, README.md, and other files as needed.
-Commit and push your changes to GitHub.
-Enable GitHub Pages in the repository settings, selecting the main branch as the source.
-Your site should now be live at https://yourusername.github.io/your-repo-name.
+- Bulleted
+- List
 
-Contributing
-Contributions are welcome! If you have suggestions for improvements, please open an issue or submit a pull request. For major changes, please discuss them in an issue first.
+1. Numbered
+2. List
 
-Fork the Project
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-Push to the Branch (git push origin feature/AmazingFeature)
-Open a Pull Request
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+**Bold** and _Italic_ and `Code` text
 
-Contact
-If you have any questions or feedback, feel free to reach out:
+[Link](url) and ![Image](src)
+```
 
-GitHub Issues: Open an issue
-Email: your.email@example.com
-Feel free to replace placeholders like yourusername, your-repo-name, and your.email@example.com with your actual GitHub username, repository name, and contact email.
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tonyflo/demo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
