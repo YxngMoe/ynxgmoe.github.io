@@ -70,7 +70,7 @@ Each course in the Computer Science program has significantly contributed to my 
 Courses like CS250 (Software Development Lifecycle) taught me the importance of teamwork and client communication. IT145 (Foundation in Application Development) and CS260 (Data Structures and Algorithms) deepened my understanding of algorithms and data structures. CS310 (Collaboration and Team Project) emphasized the necessity of teamwork for large projects.
 
 <div style="text-align: center;">
-    <img src="assets/img/CS350-Task-Scheduler-Diagram.png" width="100%" title="Task Scheduler Diagram - Thermostat Lab Guide" />
+    <img src="assets/img/PW.png" width="100%" title="Task Scheduler Diagram - Thermostat Lab Guide" />
     <p><em>Figure 2 - Thermostat Lab Guide - CS350 Emerging Systems Architecture and Technologies</em></p>
 </div>
 
