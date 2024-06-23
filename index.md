@@ -1,6 +1,6 @@
 [![Email Me](https://img.shields.io/badge/Email_Me!-Help@SNHU-red.svg?style=for-the-badge&logo=gmail)](mailto:asantiago@arsari.com "I can help you!")&nbsp;&nbsp;<a id="top" href="https://www.arsari.us/blog" title="Posts about coding" target="_blank"><img src="https://img.shields.io/badge/Visit_My_Blog-arsari.us-green.svg?style=for-the-badge&logo=blogger" /></a>&nbsp;&nbsp;![GitHub Last Commit](https://img.shields.io/github/last-commit/arsari/ePortfolio?style=for-the-badge&logo=github&color=orange "ePortfolio Last Update")
 
-<div style="background-color: #f0f8ff; padding: 20px;">
+<div style="background-color: #ADD8E6; padding: 20px;">
 
 ## Welcome
 
