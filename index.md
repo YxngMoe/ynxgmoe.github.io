@@ -1,5 +1,7 @@
 [![Email Me](https://img.shields.io/badge/Email_Me!-Help@SNHU-red.svg?style=for-the-badge&logo=gmail)](mailto:asantiago@arsari.com "I can help you!")&nbsp;&nbsp;<a id="top" href="https://www.arsari.us/blog" title="Posts about coding" target="_blank"><img src="https://img.shields.io/badge/Visit_My_Blog-arsari.us-green.svg?style=for-the-badge&logo=blogger" /></a>&nbsp;&nbsp;![GitHub Last Commit](https://img.shields.io/github/last-commit/arsari/ePortfolio?style=for-the-badge&logo=github&color=orange "ePortfolio Last Update")
 
+<div style="background-color: #f0f8ff; padding: 20px;">
+
 ## Welcome
 
 Welcome to my ePortfolio! This digital collection showcases the knowledge and skills I have acquired throughout my Computer Science studies at Southern New Hampshire University (SNHU). This portfolio reflects my academic journey and professional growth, demonstrating my technical expertise and effective communication tailored for specific technical audiences.
