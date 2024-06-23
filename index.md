@@ -1,4 +1,4 @@
-[![Email Me](https://img.shields.io/badge/Email_Me!-Help@SNHU-purple.svg?style=for-the-badge&logo=gmail)](mailto:asantiago@arsari.com "I can help you!")&nbsp;&nbsp;<a id="top" href="https://www.arsari.us/blog" title="Posts about coding" target="_blank"><img src="https://img.shields.io/badge/Visit_My_Blog-arsari.us-blue.svg?style=for-the-badge&logo=blogger" /></a>&nbsp;&nbsp;![GitHub Last Commit](https://img.shields.io/github/last-commit/arsari/ePortfolio?style=for-the-badge&logo=github "ePortfolio Last Update")
+[![Email Me](https://img.shields.io/badge/Email_Me!-Help@SNHU-red.svg?style=for-the-badge&logo=gmail)](mailto:asantiago@arsari.com "I can help you!")&nbsp;&nbsp;<a id="top" href="https://www.arsari.us/blog" title="Posts about coding" target="_blank"><img src="https://img.shields.io/badge/Visit_My_Blog-arsari.us-green.svg?style=for-the-badge&logo=blogger" /></a>&nbsp;&nbsp;![GitHub Last Commit](https://img.shields.io/github/last-commit/arsari/ePortfolio?style=for-the-badge&logo=github&color=orange "ePortfolio Last Update")
 
 ## Welcome
 
@@ -54,15 +54,15 @@ I've grown in my ability to quickly learn new skills, solve problems with humili
 
 <div style="text-align: right;">
     <a href="#">
-        <button style="font-size: 12px; font-weight: bold; background: #4CAF50; color: #ffffff; border-radius: 10px; border-style: solid; border-color: #4CAF50; padding: 8px 12px;">Back to Top &#8593;</button>
+        <button style="font-size: 12px; font-weight: bold; background: #ff9800; color: #ffffff; border-radius: 10px; border-style: solid; border-color: #ff9800; padding: 8px 12px;">Back to Top &#8593;</button>
     </a>
 </div>
 
 ### _Portfolio Considerations_
 
-<blockquote style="font-size: 18px;">
+<blockquote style="font-size: 18px; color: #ff5722;">
   <em>“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”</em>
-  <p style="text-align: right;">- Martin Fowler</p>
+  <p style="text-align: right; font-size: 16px;">- Martin Fowler</p>
 </blockquote>
 
 Each course in the Computer Science program has significantly contributed to my skill set. Here, I showcase artifacts demonstrating the knowledge and abilities gained from these impactful courses.
@@ -80,7 +80,7 @@ The artifacts selected for code review in software design, algorithms, and datab
 
 <div style="text-align: right;">
     <a href="#">
-        <button style="font-size: 12px; font-weight: bold; background: #4CAF50; color: #ffffff; border-radius: 10px; border-style: solid; border-color: #4CAF50; padding: 8px 12px;">Back to Top &#8593;</button>
+        <button style="font-size: 12px; font-weight: bold; background: #ff9800; color: #ffffff; border-radius: 10px; border-style: solid; border-color: #ff9800; padding: 8px 12px;">Back to Top &#8593;</button>
     </a>
 </div>
 
@@ -92,7 +92,7 @@ I am motivated to complete challenging work, seek guidance from experienced ment
 
 <div style="text-align: right;">
     <a href="#">
-        <button style="font-size: 12px; font-weight: bold; background: #4CAF50; color: #ffffff; border-radius: 10px; border-style: solid; border-color: #4CAF50; padding: 8px 12px;">Back to Top &#8593;</button>
+        <button style="font-size: 12px; font-weight: bold; background: #ff9800; color: #ffffff; border-radius: 10px; border-style: solid; border-color: #ff9800; padding: 8px 12px;">Back to Top &#8593;</button>
     </a>
 </div>
 
@@ -113,13 +113,13 @@ Code reviews foster fault tolerance and better code maintenance. Reviewing selec
 
 <div style="text-align: center;">
 	<a href="CodeReview" title="Artifacts Code Review">
-		<img src="https://img.shields.io/badge/Artifacts-Code_Review-yellowgreen.svg?style=for-the-badge&logo=codereview" alt="Artifacts: Refinement Plan and Code Review" />
+		<img src="https://img.shields.io/badge/Artifacts-Code_Review-yellow.svg?style=for-the-badge&logo=codereview" alt="Artifacts: Refinement Plan and Code Review" />
 	</a>
 </div>
 
 <div style="text-align: right;">
     <a href="#">
-        <button style="font-size: 12px; font-weight: bold; background: #4CAF50; color: #ffffff; border-radius: 10px; border-style: solid; border-color: #4CAF50; padding: 8px 12px;">Back to Top &#8593;</button>
+        <button style="font-size: 12px; font-weight: bold; background: #ff9800; color: #ffffff; border-radius: 10px; border-style: solid; border-color: #ff9800; padding: 8px 12px;">Back to Top &#8593;</button>
     </a>
 </div>
 
@@ -129,4 +129,4 @@ Code reviews foster fault tolerance and better code maintenance. Reviewing selec
 
 ### _Artifact: Software Design and Engineering_
 
-The selected artifact for this category is the **Inventory App**, developed as part of the CS360 Mobile Architecture and Programming course. The app tracks
+The selected artifact for this category is the **Inventory App**, developed as part of the CS360 Mobile Architecture and Programming course. The app tracks...
