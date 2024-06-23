@@ -1,7 +1,23 @@
+<h1>Mohamed Babiker</h1>
+<h3>cs.mohamedbabiker@gmail.com (603)858-5992 Manchester, NH</h3>
+
 <div style="background-color: #ADD8E6; padding: 20px;">
 
-[![Email Me](https://img.shields.io/badge/Email_Me!-Help@SNHU-red.svg?style=for-the-badge&logo=gmail)](mailto:asantiago@arsari.com "I can help you!")&nbsp;&nbsp;<a id="top" href="https://www.arsari.us/blog" title="Posts about coding" target="_blank"><img src="https://img.shields.io/badge/Visit_My_Blog-arsari.us-green.svg?style=for-the-badge&logo=blogger" /></a>&nbsp;&nbsp;![GitHub Last Commit](https://img.shields.io/github/last-commit/arsari/ePortfolio?style=for-the-badge&logo=github&color=orange "ePortfolio Last Update")
 
+<div style="display: flex; justify-content: space-around; align-items: center; padding: 20px; background-color: #f0f8ff;">
+    <a href="#self-assessment" style="text-decoration: none; color: #000;">
+        <img src="https://img.shields.io/badge/Professional_Self_Assessment-0000ff.svg?style=for-the-badge&logo=self-assessment" />
+    </a>
+    <a href="#codereview" style="text-decoration: none; color: #000;">
+        <img src="https://img.shields.io/badge/Refinement_Plan_and_Code_Review-ff69b4.svg?style=for-the-badge&logo=codereview" />
+    </a>
+    <a href="#softwaredesign" style="text-decoration: none; color: #000;">
+        <img src="https://img.shields.io/badge/Software_Design_and_Engineering-ffa500.svg?style=for-the-badge&logo=softwaredesign" />
+    </a>
+    <a href="#artifact-algorithms-and-data-structures" style="text-decoration: none; color: #000;">
+        <img src="https://img.shields.io/badge/Algorithms_and_Data_Structure-32cd32.svg?style=for-the-badge&logo=algorithms" />
+    </a>
+</div>
 
 ## Welcome
 
