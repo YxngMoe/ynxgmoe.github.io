@@ -6,31 +6,32 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: lightblue;
-            color: white;
+            background-color: #d0e7f9;
+            color: navy;
             text-align: center;
             margin: 0;
             padding: 0;
         }
         h1, h2, h3 {
             font-weight: bold;
+            color: navy;
         }
         h1 {
-            font-size: 2.5em;
+            font-size: 3em;
             margin: 20px 0;
         }
         h2 {
-            font-size: 2em;
+            font-size: 2.5em;
             margin: 15px 0;
         }
         h3 {
-            font-size: 1.5em;
+            font-size: 2em;
             margin: 10px 0;
         }
         a {
-            font-size: 1.2em;
+            font-size: 1.5em;
             font-weight: bold;
-            color: white;
+            color: navy;
             text-decoration: none;
         }
         table {
@@ -39,10 +40,10 @@
             border-collapse: collapse;
         }
         th, td {
-            padding: 10px;
+            padding: 15px;
             text-align: center;
             border: 1px solid #ddd;
-            font-size: 1.2em;
+            font-size: 1.5em;
         }
         th {
             background-color: #f4f4f4;
@@ -52,7 +53,7 @@
             height: auto;
         }
         .button {
-            font-size: 1.2em;
+            font-size: 1.5em;
             font-weight: bold;
             background: #ff9800;
             color: white;
@@ -62,6 +63,13 @@
             margin: 20px;
             text-decoration: none;
             display: inline-block;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            margin: 10px 0;
         }
     </style>
 </head>
