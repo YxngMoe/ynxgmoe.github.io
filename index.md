@@ -13,7 +13,6 @@
         }
         h1, h2, h3 {
             font-weight: bold;
-            color: #1E90FF;
         }
         h1 {
             font-size: 3em;
