@@ -7,7 +7,7 @@
         body {
             font-family: Arial, sans-serif;
             background-color: lightblue;
-            color: #333;
+            color: white;
             text-align: center;
             margin: 0;
             padding: 0;
@@ -30,7 +30,7 @@
         a {
             font-size: 1.2em;
             font-weight: bold;
-            color: #000;
+            color: white;
             text-decoration: none;
         }
         table {
@@ -55,7 +55,7 @@
             font-size: 1.2em;
             font-weight: bold;
             background: #ff9800;
-            color: #ffffff;
+            color: white;
             border-radius: 10px;
             border: none;
             padding: 10px 20px;
