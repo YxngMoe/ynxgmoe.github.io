@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -68,12 +67,7 @@
 </head>
 <body>
     <h1>Mohamed Babiker's ePortfolio</h1>
-
-    <h2>My Name</h2>
-    <p>Mohamed Babiker</p>
-
-    <a href="https://github.com/arsari" class="button">GitHub Profile</a>
-
+    
     <h2>Table of Contents</h2>
     <ul style="list-style: none; padding: 0;">
         <li><a href="#introduction">Introduction</a></li>
