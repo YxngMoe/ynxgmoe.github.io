@@ -30,7 +30,6 @@
         a {
             font-size: 1.5em;
             font-weight: bold;
-            color: #1E90FF;
             text-decoration: none;
         }
         table {
@@ -44,9 +43,6 @@
             border: 1px solid #ddd;
             font-size: 1.5em;
         }
-        th {
-            background-color: #f4f4f4;
-        }
         img {
             max-width: 100%;
             height: auto;
@@ -54,7 +50,6 @@
         .button {
             font-size: 1.5em;
             font-weight: bold;
-            background: #ff9800;
             color: white;
             border-radius: 10px;
             border: none;
