@@ -70,27 +70,18 @@
     <p>Code reviews are a crucial part of software development, ensuring quality and catching critical bugs early. They enhance team skills and maintain code quality. Through systematic code reviews, I aim to improve the overall quality of the software and my skills.</p>
 
     <h2 id="artifact-1">Artifact 1: OpenGL ZigZag Chair</h2>
-    <h3>Narrative</h3>
     <p>Developed as part of the CS330 Computational Graphics and Visualization course, this project showcases my ability to create complex visual elements using OpenGL.</p>
-    <h3>Screenshot</h3>
     <img src="assets/img/PW.png" alt="OpenGL ZigZag Chair Screenshot">
-    <h3>GitHub Link</h3>
     <a href="https://github.com/arsari/OpenGL-ZigZag">OpenGL ZigZag Chair Repository</a>
 
     <h2 id="artifact-2">Artifact 2: Zoo Monitor System</h2>
-    <h3>Narrative</h3>
     <p>This artifact is a part of the IT145 course and demonstrates my skills in Java programming and creating a monitoring system for a zoo.</p>
-    <h3>Screenshot</h3>
     <img src="assets/img/PW.png" alt="Zoo Monitor System Program Java Code Screenshot">
-    <h3>GitHub Link</h3>
     <a href="https://github.com/arsari/Zoo-Monitor-System">Zoo Monitor System Repository</a>
 
     <h2 id="artifact-3">Artifact 3: Inventory App</h2>
-    <h3>Narrative</h3>
     <p>Developed for the CS360 Mobile Architecture and Programming course, this app tracks inventory and demonstrates my skills in mobile app development.</p>
-    <h3>Screenshot</h3>
     <img src="assets/img/PW.png" alt="Inventory App Screenshot">
-    <h3>GitHub Link</h3>
     <a href="https://github.com/arsari/Inventory-App">Inventory App Repository</a>
 
     <h2 id="end-note">End Note</h2>
