@@ -6,15 +6,15 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #d0e7f9;
-            color: navy;
+            background-color: white;
+            color: #1E90FF;
             text-align: center;
             margin: 0;
             padding: 0;
         }
         h1, h2, h3 {
             font-weight: bold;
-            color: navy;
+            color: #1E90FF;
         }
         h1 {
             font-size: 3em;
@@ -31,7 +31,7 @@
         a {
             font-size: 1.5em;
             font-weight: bold;
-            color: navy;
+            color: #1E90FF;
             text-decoration: none;
         }
         table {
