@@ -69,36 +69,64 @@ Furthermore, I redesigned the user interface to make it more intuitive and user-
 
 ‭Reflecting on the process of improving this artifact, I faced a number of hurdles and learning‬ opportunities. I learned the value of scalability and effective data management in web‬ applications. Using comments from peers and professors, I worked to improve the component‬ organization, responsiveness, and overall user experience. The project necessitated thorough‬ consideration of design concepts and user interface improvements, which expanded my‬ knowledge of frontend programming best practices.‬
 
-**Running Project Locally
+[Continued Narrative for Artifact 1](narratives/artifact 1 narrative.pdf)
+
+**Running Project Locally**
 
 To execute the Next.js project after downloading it, open your terminal or command line and browse to the project directory. Once there, use npm install to install all necessary dependencies locally. This step ensures that your project has all of the packages it need. After the installation is complete, use npm run dev to launch the Next.js development server. This command builds your project and starts the local server, making your application accessible via localhost. To view and interact with your Next.js application, simply open a web browser and visit to http://localhost:3000. This procedure guarantees that your project works well and enables you to start creating and testing your application locally.
 
-
-[Continued Narrative for Artifact 1](narrative/artifact 1 narrative.pdf)
-
-Artifact 1 Review Video
+**Artifact 1 Review Video**
 
 [![Artifact 1 Review Video](https://img.youtube.com/vi/BMCMSwE_3tU/0.jpg)](https://www.youtube.com/watch?v=BMCMSwE_3tU)
 
 
 
-### Artifact 2: Data Structures & Algorithms
-**Before Enhancement**  
-The artifact for your ePortfolio is a C++ application that uses a binary search tree data structure to store bid information and allows the user to rapidly search for a certain bid ID. It was first developed in February 2023 for CS 260. I chose this item for my ePortfolio because it exhibits my knowledge of C++ and ability to apply sorting algorithms to bespoke data structures. Specifically, the artifact demonstrates my ability to create and deconstruct bespoke data structures, as well as my ability to apply complicated logic. Especially with technical interviews being based on these types of algorithms, it was great practice and achieved successfully.
+### Artifact 2: Data Structures & Algorithms [Before Link](https://github.com/YxngMoe/ynxgmoe.github.io/tree/main/CS260/before)  [After Link](https://github.com/YxngMoe/ynxgmoe.github.io/tree/main/CS260/after)
 
-**After Enhancement**  
-The artifact was improved by incorporating validation and binary search for quicker bid ID retrieval. This enhances the program's usefulness and performance while demonstrating your expertise in algorithm design and data structures. The upgrades also show your ability to improve old code to fit new needs. Through enhancing and modifying the artifact, I discovered the importance of memory management in C++ and how it might affect application performance. I also acquired experience adding new features to an existing codebase, which improved my problem-solving abilities. One of the difficulties I encountered was ensuring that the new features worked easily with the current codebase while preserving the effectiveness of the binary search tree technique.
+![Artifact Picture](assets/img/260.png)
 
-To increase the complexity of the data structures utilized in the artifact, I concentrated on improving the search functionality by designing a binary search algorithm. By implementing this approach, the program can now collect bid IDs quickly, considerably lowering the time complexity of the search procedure. This improvement indicates not just my ability to use complex algorithms to boost efficiency, but also my comprehension of data structures and their practical applications. Furthermore, the binary search algorithm has to be carefully integrated and compatible with the binary search tree data structure. This technique improved my problem-solving abilities and gave me a better grasp of algorithm creation and optimization in real-world applications.
+Artifact 2 in my ePortfolio is a C++ program that uses a binary search tree data structure to organize and rapidly retrieve bid information. It was first created in February 2023 for CS 260. I selected to include this item in my portfolio because it demonstrates my expertise in C++ programming and my ability to apply sorting algorithms to custom data structures. This artifact is especially relevant because it demonstrates my ability to build and deconstruct complex data structures while using precise logic to produce efficient solutions—skills that are essential for technical interviews and real-world software development settings.
 
-### Artifact 3: Databases
-**Before Enhancement**  
-It was produced last semester for the CS340 class. The dashboard allows users to choose a rescue type, filter data in a table, and examine accompanying charts and maps. This artifact demonstrates my software development talents, including Python, Dash, Flask, MongoDB, and Plotly. The inclusion of the method increases data processing efficiency, proving my ability to optimize code for performance. The upgrade supports the course objectives of designing database solutions and accomplishing project goals. The method enhances data processing, which is critical to database operations and project efficiency. Throughout the improvement process, I learnt about algorithm optimization and its effect on data processing speed. I encountered difficulties in effortlessly incorporating the algorithm into the current software while ensuring that it enhanced overall speed without creating mistakes. Overall, this upgrade project was a fantastic learning opportunity that helped me improve my abilities in database administration, algorithm optimization, and software development.
+Through changes to this artifact, I concentrated on strengthening its functionality by including validation and building a binary search technique to accelerate bid ID retrieval. These modifications considerably improved the program's performance and utility, demonstrating my competence in algorithm design and data structures. The process of updating the artifact revealed important insights into C++ memory management and the delicate balance necessary to retain application performance while introducing new capabilities. Overcoming problems such as integrating new features without affecting existing code effectiveness honed my problem-solving skills and improved my grasp of algorithm optimization.
 
-**After Enhancement**  
-When improving the dashboard component for my ePortfolio, I concentrated on implementing more complex MongoDB ideas and validation approaches to boost utility and speed. This entailed improving the data storage and retrieval operations with MongoDB resulting in more efficient and optimal data processing. In addition, I used HTML and JavaScript to improve the user interface, making it more intuitive and user-friendly. These changes demonstrate not just my expertise in MongoDB and web development, but also my ability to use new technologies to increase program speed.
+Reflecting on the upgrade process, I realized the value of precise algorithm design and its influence on application efficiency. Incorporating comments from peers and teachers helped polish the artifact even more, particularly in terms of maximizing the binary search algorithm's interaction with the current binary search tree structure. This experience not only expanded my grasp of data structure operations, but also improved my ability to apply theoretical principles in real-world software development scenarios.
 
-Furthermore, the upgrade included more complex MongoDB features like aggregation pipelines and indexes to improve data retrieval and processing. By incorporating these techniques, I was able to considerably enhance the dashboard's efficiency, particularly when dealing with enormous datasets. In addition, I included validation mechanisms to assure data integrity and security, which improved the application's overall reliability. This experience not only expanded my knowledge of MongoDB and its sophisticated capabilities, but it also sharpened my skills in database management and software development. Overall, this upgrade project was a fantastic learning experience that allowed me to apply theoretical principles to real-world circumstances, enhancing my skills in database administration, algorithm optimization, and software development.
+Overall, the improvements I made to this artifact demonstrate my knowledge of data structures and algorithms, as well as my ability to develop and execute efficient computing solutions. They are well aligned with course goals linked to algorithmic concepts and problem-solving skills, proving my readiness to face tough problems in computer science.
+
+[Continued Narrative for Artifact 2](narratives/artifact 2 narrative.pdf)
+
+**Running Project Locally**
+
+To execute my CS260 C++ project locally, first download the project folder, which includes all *.cpp files and the necessary input data files. Navigate to this folder using your terminal or command prompt. Ensure that you have a C++ compiler installed on your system; g++ is often used on Unix-like systems and may need to be installed separately on Windows. To compile the main C++ file, use g++ -o main main.cpp at the terminal. Once the program has been properly constructed, run it using./main to interact with it through the terminal. This approach enables for local testing and verification of the C++ project's functioning prior to deployment or submission.
+
+
+**Artifact 2 Review Video**
+
+[![Artifact 1 Review Video](https://img.youtube.com/vi/BMCMSwE_3tU/0.jpg)](https://www.youtube.com/watch?v=BMCMSwE_3tU)
+
+### Artifact 3: Databases [Before Link](https://github.com/YxngMoe/ynxgmoe.github.io/tree/main/CS340/before)  [After Link](https://github.com/YxngMoe/ynxgmoe.github.io/tree/main/CS340/after)
+
+![Artifact Picture](assets/img/340.png)
+
+The database artifact #3 is a web application dashboard that I created last semester for the CS340 (Client/Server Development) class. This dashboard lets users choose a rescue type, filter data in a table, and view charts and maps. It demonstrates my skill in software development with Python, Dash, Flask, MongoDB, and Plotly, as well as my ability to optimize code for efficient data processing. This item demonstrates my ability to build database systems and achieve project goals, which matches with the course objectives. It was first designed to thoroughly investigate MongoDB, tackling issues in creating efficient data retrieval and display. During its early development, I concentrated on studying algorithm optimization to improve data processing speed, but encountered difficulties in effortlessly integrating new algorithms without jeopardizing the whole system.
+
+To improve the dashboard component of my ePortfolio centered on databases, I contemplated combining more complex MySQL ideas, such as data mining, and constructing a MongoDB interface using HTML or Javascript. These changes seek to improve data processing efficiency and user interactivity. I improved the data storage and retrieval procedures using MongoDB, resulting in more simplified and efficient data processing. Furthermore, using HTML and JavaScript, I rebuilt the user interface to be more intuitive and user-friendly, hence improving the entire user experience. These enhancements demonstrate my skill in MongoDB, MySQL, and web development, as well as my ability to incorporate new technologies to increase performance.
+
+Furthermore, the upgrade included advanced MongoDB capabilities such as aggregation pipelines and indexes to improve data retrieval and processing. By combining these strategies, I dramatically increased the dashboard's efficiency, particularly when dealing with enormous datasets. In addition, I added strong validation techniques to assure data integrity and improve application dependability. This experience helped me better comprehend MongoDB's advanced capabilities and honed my skills in database administration and software development.
+
+Enhancing this item presented several learning opportunities and difficulties. I learnt about MongoDB's aggregation architecture and indexing methods, which are critical for optimizing data queries and boosting overall application performance. Incorporating input from peers and teachers allowed me to improve my approach to data validation and user interface design, resulting in a more coherent and responsive dashboard. The challenge was to balance speed increases with code simplicity and scalability, especially when incorporating complicated MongoDB queries. However, these obstacles helped me improve my problem-solving abilities and get a better knowledge of database architectural concepts.
+
+The artifact's modification effectively addressed multiple course objectives, including building database solutions for efficient data management and retrieval, improving algorithms to increase application performance, and demonstrating competency in web development using MongoDB and associated technologies.
+
+[Continued Narrative for Artifact 3](narratives/artifact 3 narrative.pdf)
+
+**Running Project Locally**
+
+Although for me personnaly I did use my schools local machine to run the files for this project most of the time, it is very possible to run it locally in a intuitive way on your machine. To run this project locally, ensure you've downloaded the project folder containing all necessary files. Open your terminal or command prompt and navigate to the project directory using cd commands. Once there, simply start a local server. If using Python, run python -m http.server or if using Node.js, use http-server. This will launch a server at http://localhost where you can open a web browser and view your project.
+
+**Artifact 2 Review Video**
+
+[![Artifact 1 Review Video](https://img.youtube.com/vi/BMCMSwE_3tU/0.jpg)](https://www.youtube.com/watch?v=BMCMSwE_3tU)
 
 ---
 
