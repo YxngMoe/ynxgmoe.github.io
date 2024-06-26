@@ -8,8 +8,6 @@
 
 [PROFESSIONAL SELF-ASSESSMENT](#PROFESSIONAL)
 
-[SKILLS](#SKILLS)
-
 [CODE REVIEW](#CODEREVIEW)
 
 [ARTIFACT 1 (Software design and engineering)](#Software)
@@ -20,11 +18,11 @@
 
 ---
 
-## INTRODUCTION
+## INTRODUCTION {#INTRODUCTION}
 
 Hello! My name is Mohamed Babiker, and I am a senior majoring in Computer Science at Southern New Hampshire University who will graduate 06/2024. This GitHub page is dedicated to the Capstone ePortfolio, which was my final semester assignment. I've been working really hard to complete this project in order to display my academic path and the abilities I've acquired. This ePortfolio shows my professional development, showcasing well-crafted written and visual communication that showcases my skills in a unified, technically sound manner, tailored to specific technical audiences and scenarios. 
 
-## PROFESSIONAL SELF-ASSESSMENT
+## PROFESSIONAL SELF-ASSESSMENT {#PROFESSIONAL}
 
 As a senior graduating in 2024 from Southern New Hampshire University (SNHU) with a degree in Computer Science, my experience in the program has been remarkable. Completing my curriculum and creating my ePortfolio has enabled me to highlight my talents, establish my career aspirations, and prepare to enter the computer science sector as a highly marketable individual. The program has equipped me with the skills, knowledge, and experiences needed to succeed in the field of computers.
 
@@ -42,7 +40,7 @@ For my course outcomes, in my ePortfolio, I demonstrate a variety of abilities t
 
 ---
 
-## REFINEMENT PLAN AND CODE REVIEW
+## REFINEMENT PLAN AND CODE REVIEW {#CODEREVIEW}
 
 Before finishing my ePortfolio objects, I did an informal code review to discuss my objectives for changes and enhancements. This method guarantees that my portfolio fulfills high software development standards and is successfully aligned with course objectives. Here's a summary of the improvements made to each artifact:
 
@@ -52,14 +50,14 @@ For artifact 2 initially, the C++ binary search tree software used a binary sear
 
 For artifact 3, originally created for the CS340 class, the web application dashboard allowed users to filter data, view tables, and explore charts and maps relating to rescue operations. During the code analysis phase, I discovered ways to improve the structure, functionality, efficiency, and security. I focused on improving data retrieval and processing by utilizing sophisticated MongoDB capabilities. This improved the dashboard in a wholistic technical view, particularly when dealing with huge datasets, and guaranteed effective data management.
 
-<iframe align="center" width="900" height="480" src="https://www.youtube.com/watch?v=BMCMSwE_3tU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Artifact 1 Review Video](https://img.youtube.com/vi/BMCMSwE_3tU/0.jpg)](https://www.youtube.com/watch?v=BMCMSwE_3tU)
 
 
 ---
 
 ## ARTIFACTS
 
-### Artifact 1: Software Design and Engineering ‭[Before Link](https://github.com/YxngMoe/ynxgmoe.github.io/tree/main/CS260/before)  [After Link](https://github.com/YxngMoe/ynxgmoe.github.io/tree/main/CS260/after)
+### Artifact 1: Software Design and Engineering ‭[Before Link](https://github.com/YxngMoe/PersonalWebsite)  [After Link](https://github.com/YxngMoe/PersonalWebsite) {#Software}
 
 ![Artifact Picture](assets/img/PW.png)
 
@@ -85,7 +83,7 @@ To execute the Next.js project after downloading it, open your terminal or comma
 
 
 
-### Artifact 2: Data Structures & Algorithms [Before Link](https://github.com/YxngMoe/ynxgmoe.github.io/tree/main/CS260/before)  [After Link](https://github.com/YxngMoe/ynxgmoe.github.io/tree/main/CS260/after)
+### Artifact 2: Data Structures & Algorithms [Before Link](https://github.com/YxngMoe/ynxgmoe.github.io/tree/main/CS260/before)  [After Link](https://github.com/YxngMoe/ynxgmoe.github.io/tree/main/CS260/after) {#Algorithms}
 
 ![Artifact Picture](assets/img/260.png)
 
@@ -106,9 +104,9 @@ To execute my CS260 C++ project locally, first download the project folder, whic
 
 **Artifact 2 Review Video**
 
-[![Artifact 1 Review Video](https://img.youtube.com/vi/BMCMSwE_3tU/0.jpg)](https://www.youtube.com/watch?v=BMCMSwE_3tU)
+[![Artifact 2 Review Video](https://img.youtube.com/vi/BMCMSwE_3tU/0.jpg)](https://www.youtube.com/watch?v=BMCMSwE_3tU)
 
-### Artifact 3: Databases [Before Link](https://github.com/YxngMoe/ynxgmoe.github.io/tree/main/CS340/before)  [After Link](https://github.com/YxngMoe/ynxgmoe.github.io/tree/main/CS340/after)
+### Artifact 3: Databases [Before Link](https://github.com/YxngMoe/ynxgmoe.github.io/tree/main/CS340/before)  [After Link](https://github.com/YxngMoe/ynxgmoe.github.io/tree/main/CS340/after) {#Databases}
 
 ![Artifact Picture](assets/img/340.png)
 
@@ -128,9 +126,9 @@ The artifact's modification effectively addressed multiple course objectives, in
 
 Although for me personnaly I did use my schools local machine to run the files for this project most of the time, it is very possible to run it locally in a intuitive way on your machine. To run this project locally, ensure you've downloaded the project folder containing all necessary files. Open your terminal or command prompt and navigate to the project directory using cd commands. Once there, simply start a local server. If using Python, run python -m http.server or if using Node.js, use http-server. This will launch a server at http://localhost where you can open a web browser and view your project.
 
-**Artifact 2 Review Video**
+**Artifact 3 Review Video**
 
-[![Artifact 1 Review Video](https://img.youtube.com/vi/BMCMSwE_3tU/0.jpg)](https://www.youtube.com/watch?v=BMCMSwE_3tU)
+[![Artifact 3 Review Video](https://img.youtube.com/vi/BMCMSwE_3tU/0.jpg)](https://www.youtube.com/watch?v=BMCMSwE_3tU)
 
 ---
 
