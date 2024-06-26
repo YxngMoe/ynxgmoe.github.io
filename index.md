@@ -1,6 +1,4 @@
----
-title: Your Custom Title
----
+<title>Mohamed Babiker</title>
 👋🏽 **Welcome!**
 
 [INTRODUCTION](#INTRODUCTION)
