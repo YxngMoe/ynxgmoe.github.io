@@ -1,4 +1,3 @@
-## MOHAMED BABIKER EPORTFOLIO 
 👋🏽 **Welcome!**
 
 [INTRODUCTION](#INTRODUCTION)
@@ -34,6 +33,9 @@ My ePortfolio demonstrates my complete skill set and experiences. The associated
 The second artifact is a C++ program that efficiently stores and retrieves bid information using a binary search tree. This artifact was created for CS260 to demonstrate my mastery of C++ and sorting algorithms. I upgraded the application by adding validation and refining the search capabilities, which increased its efficiency and usability. The final artifact is a web application dashboard for the Grazioso Salvare Animal Shelter, which was developed for CS340. It demonstrates my proficiency with Python, Dash, Flask, MongoDB, and Plotly. The changes I made increased data processing efficiency, showcasing my ability to optimize code and provide successful database solutions.
 
 To summarize, finishing my studies and establishing my ePortfolio have helped me prepare for a future in computer science. These experiences have provided me with the technical skills and professional qualities required to flourish in this sector. As I look forward to future chances, I am convinced that my education has equipped me to make important contributions to the field of computer science. This professional self-assessment serves as an introduction to my portfolio, emphasizing the breadth of my skills and abilities while also exhibiting my preparedness to thrive in the field of computer science.
+
+Throughout my ePortfolio, I demonstrate a variety of abilities that are relevant to major goals from my curriculum and computer science activities. I thrive in creating collaborative spaces and assisting various audiences with organizational decision-making. My capacity to communicate well in oral, written, and visual formats is clear, and I adjust fluidly to different circumstances and audiences. I have great skills in creating and assessing computer systems based on algorithmic principles, making informed design decisions while providing solutions that satisfy industry requirements. 
+
 
 ---
 
