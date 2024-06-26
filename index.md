@@ -34,8 +34,7 @@ The second artifact is a C++ program that efficiently stores and retrieves bid i
 
 To summarize, finishing my studies and establishing my ePortfolio have helped me prepare for a future in computer science. These experiences have provided me with the technical skills and professional qualities required to flourish in this sector. As I look forward to future chances, I am convinced that my education has equipped me to make important contributions to the field of computer science. This professional self-assessment serves as an introduction to my portfolio, emphasizing the breadth of my skills and abilities while also exhibiting my preparedness to thrive in the field of computer science.
 
-Throughout my ePortfolio, I demonstrate a variety of abilities that are relevant to major goals from my curriculum and computer science activities. I thrive in creating collaborative spaces and assisting various audiences with organizational decision-making. My capacity to communicate well in oral, written, and visual formats is clear, and I adjust fluidly to different circumstances and audiences. I have great skills in creating and assessing computer systems based on algorithmic principles, making informed design decisions while providing solutions that satisfy industry requirements. 
-
+For my course outcomes, in my ePortfolio, I demonstrate a variety of abilities that are relevant to major goals from my curriculum and computer science activities. I thrive in creating collaborative spaces and assisting various audiences with organizational decision-making. My capacity to communicate well in oral, written, and visual formats is clear, and I adjust fluidly to different circumstances and audiences. I have great skills in creating and assessing computer systems based on algorithmic principles, making informed design decisions while providing solutions that satisfy industry requirements. 
 
 ---
 
@@ -57,15 +56,22 @@ For artifact 3, originally created for the CS340 class, the web application dash
 ## ARTIFACTS
 
 ### Artifact 1: Software Design and Engineering
-**Before Enhancement**  
-This year, I focused on enhancing my ePortfolio by integrating comprehensive course resources into the React page. This task involved substantial system design and the development of new components, showcasing my proficiency in software design and engineering as outlined in the assignment rubric. 
 
-**After Enhancement**  
-Artifact 1 in my ePortfolio now includes an updated React-based web application that I created as part of my CS499 course. This update is a key milestone in my career as a software engineer, demonstrating my ability to integrate complicated system architectures and improve the functioning of a web application. The project began as a basic React application, but with subsequent updates, it now contains full course resources that demonstrate a deeper grasp and application of advanced software design principles.
+For my first artifact in Software Design and Engineering, I focused on improving my React-based ePortfolio, a project that started during my junior year when I desperately needed a professional portfolio for internship applications. Initially, the ePortfolio was simple, with little complexity and effective security features in its backend structure. To improve its usefulness and attractiveness, I completely overhauled my CS499 course capstone project. Using Next.js, I redesigned the entire framework to improve efficiency by leveraging its efficient component rendering features. This transformation entailed smoothly integrating different components while keeping to the structure specified for the GitHub website, resulting in a secure and dynamic user experience. The project not only demonstrates my progress in software design, but also emphasizes my dedication to improving it.
 
-To increase the project's complexity, I focused on a few important improvements. First, I incorporated several course resources into the React application, which necessitated considerable system architecture and the development of new components to handle many capabilities flawlessly. This included adopting advanced state management techniques and ensuring that data was handled efficiently. I also updated the general architecture by streamlining the component structure and increasing the application's responsiveness, which dramatically improved usability and performance.
+Artifact 1 in my ePortfolio now includes an updated Next.JS-based web application that I created as part of my CS499 course. This update is a key milestone in my career as a software engineer, demonstrating my ability to integrate complicated system architectures and improve the functioning of a web application. The project began as a basic React application, but with subsequent updates, it now contains full course resources that demonstrate a deeper grasp and application of advanced software design principles.
+
+To increase the project's complexity, I concentrated on a few crucial upgrades. I used Next.js for quick component rendering to incorporate multiple course resources into the React application. This necessitated extensive system architecture and the creation of new components to manage numerous functionalities seamlessly. I used modern approaches to ensure efficient data processing and upgraded the overall design by fine-tuning component structure and increasing application responsiveness. These modifications dramatically improved usability and speed, proving my abilities to optimize software design and engineering for actual computer science applications.
 
 Furthermore, I redesigned the user interface to make it more intuitive and user-friendly. The program's usability and visual appeal improved by adopting new design ideas and flexible layouts. These upgrades not only complicate the project but also need a thorough understanding of contemporary web design and user experience principles. Overall, the modifications to the React website demonstrate my ability to handle challenging problems and come up with unique solutions, which marks a watershed point in my software development career.
+
+‭Reflecting on the process of improving this artifact, I faced a number of hurdles and learning‬ opportunities. I learned the value of scalability and effective data management in web‬ applications. Using comments from peers and professors, I worked to improve the component‬ organization, responsiveness, and overall user experience. The project necessitated thorough‬ consideration of design concepts and user interface improvements, which expanded my‬ knowledge of frontend programming best practices.‬
+
+[Continued Narrative for Artifact 1](narrative/artifact 1 narrative.pdf)
+
+‭
+
+
 
 ### Artifact 2: Data Structures & Algorithms
 **Before Enhancement**  
