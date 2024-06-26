@@ -49,8 +49,8 @@ For artifact 2 initially, the C++ binary search tree software used a binary sear
 
 For artifact 3, originally created for the CS340 class, the web application dashboard allowed users to filter data, view tables, and explore charts and maps relating to rescue operations. During the code analysis phase, I discovered ways to improve the structure, functionality, efficiency, and security. I focused on improving data retrieval and processing by utilizing sophisticated MongoDB capabilities. This improved the dashboard in a wholistic technical view, particularly when dealing with huge datasets, and guaranteed effective data management.
 
+<iframe align="center" width="900" height="480" src="https://www.youtube.com/watch?v=BMCMSwE_3tU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-[Code Review Video](https://www.youtube.com/watch?v=BMCMSwE_3tU)
 
 ---
 
