@@ -55,7 +55,7 @@ For artifact 3, originally created for the CS340 class, the web application dash
 
 ## ARTIFACTS
 
-### Artifact 1: Software Design and Engineering ‭<!-- Before Button (link to GitHub) --> [Before](https://github.com/YxngMoe/ynxgmoe.github.io/tree/main/CS260/before)  [After](https://github.com/YxngMoe/ynxgmoe.github.io/tree/main/CS260/after)
+### Artifact 1: Software Design and Engineering ‭[Before Link](https://github.com/YxngMoe/ynxgmoe.github.io/tree/main/CS260/before)  [After Link](https://github.com/YxngMoe/ynxgmoe.github.io/tree/main/CS260/after)
 
 ![Artifact Picture](assets/img/PW.png)
 
@@ -69,9 +69,15 @@ Furthermore, I redesigned the user interface to make it more intuitive and user-
 
 ‭Reflecting on the process of improving this artifact, I faced a number of hurdles and learning‬ opportunities. I learned the value of scalability and effective data management in web‬ applications. Using comments from peers and professors, I worked to improve the component‬ organization, responsiveness, and overall user experience. The project necessitated thorough‬ consideration of design concepts and user interface improvements, which expanded my‬ knowledge of frontend programming best practices.‬
 
+**Running Project Locally
+
+To execute the Next.js project after downloading it, open your terminal or command line and browse to the project directory. Once there, use npm install to install all necessary dependencies locally. This step ensures that your project has all of the packages it need. After the installation is complete, use npm run dev to launch the Next.js development server. This command builds your project and starts the local server, making your application accessible via localhost. To view and interact with your Next.js application, simply open a web browser and visit to http://localhost:3000. This procedure guarantees that your project works well and enables you to start creating and testing your application locally.
+
+
 [Continued Narrative for Artifact 1](narrative/artifact 1 narrative.pdf)
 
-[![Artifact 1 Review](https://img.youtube.com/vi/BMCMSwE_3tU/0.jpg)](https://www.youtube.com/watch?v=BMCMSwE_3tU)
+Artifact 1 Review Video
+[![Artifact 1 Review Video](https://img.youtube.com/vi/BMCMSwE_3tU/0.jpg)](https://www.youtube.com/watch?v=BMCMSwE_3tU)
 
 
 
