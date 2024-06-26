@@ -85,7 +85,7 @@ To execute the Next.js project after downloading it, open your terminal or comma
 
 ### Artifact 2: Data Structures & Algorithms [Before Link](https://github.com/YxngMoe/ynxgmoe.github.io/tree/main/CS260/before)  [After Link](https://github.com/YxngMoe/ynxgmoe.github.io/tree/main/CS260/after) {#Algorithms}
 
-![Artifact Picture](assets/img/260.png)
+![Artifact Picture](260.png)
 
 Artifact 2 in my ePortfolio is a C++ program that uses a binary search tree data structure to organize and rapidly retrieve bid information. It was first created in February 2023 for CS 260. I selected to include this item in my portfolio because it demonstrates my expertise in C++ programming and my ability to apply sorting algorithms to custom data structures. This artifact is especially relevant because it demonstrates my ability to build and deconstruct complex data structures while using precise logic to produce efficient solutions—skills that are essential for technical interviews and real-world software development settings.
 
@@ -108,7 +108,7 @@ To execute my CS260 C++ project locally, first download the project folder, whic
 
 ### Artifact 3: Databases [Before Link](https://github.com/YxngMoe/ynxgmoe.github.io/tree/main/CS340/before)  [After Link](https://github.com/YxngMoe/ynxgmoe.github.io/tree/main/CS340/after) {#Databases}
 
-![Artifact Picture](assets/img/340.png)
+![Artifact Picture](340.png)
 
 The database artifact #3 is a web application dashboard that I created last semester for the CS340 (Client/Server Development) class. This dashboard lets users choose a rescue type, filter data in a table, and view charts and maps. It demonstrates my skill in software development with Python, Dash, Flask, MongoDB, and Plotly, as well as my ability to optimize code for efficient data processing. This item demonstrates my ability to build database systems and achieve project goals, which matches with the course objectives. It was first designed to thoroughly investigate MongoDB, tackling issues in creating efficient data retrieval and display. During its early development, I concentrated on studying algorithm optimization to improve data processing speed, but encountered difficulties in effortlessly integrating new algorithms without jeopardizing the whole system.
 
