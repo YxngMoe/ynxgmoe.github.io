@@ -1,43 +1,54 @@
 ## MOHAMED BABIKER EPORTFOLIO 
-# SNHU CS499 - Computer Science Capstone
+👋🏽 **Welcome!**
 
 [INTRODUCTION](#INTRODUCTION)
+
 [PROFESSIONAL SELF-ASSESSMENT](#PROFESSIONAL)
+
 [SKILLS](#SKILLS)
+
 [CODE REVIEW](#CODEREVIEW)
+
 [ARTIFACT 1 (Software design and engineering)](#Software)
+
 [ARTIFACT 2 (Algorithms and data structure)](#Algorithms)
+
 [ARTIFACT 3 (Databases)](#Databases)
 
 ---
 
 ## INTRODUCTION
 
-As a senior graduating in 2024 from Southern New Hampshire University's (SNHU) Computer Science degree, my ePortfolio highlights the conclusion of my academic experience and the skills I've gained. It highlights my progress and accomplishments throughout the program, including honor rolls for high-quality results. The ePortfolio reflects my professional progress by displaying well-crafted written and visual communication that showcases my talents in a cohesive, technically sound manner that is customized to specific technical audiences and situations.
+Hello! My name is Mohamed Babiker, and I am a senior majoring in Computer Science at Southern New Hampshire University who will graduate 06/2024. This GitHub page is dedicated to the Capstone ePortfolio, which was my final semester assignment. I've been working really hard to complete this project in order to display my academic path and the abilities I've acquired. This ePortfolio shows my professional development, showcasing well-crafted written and visual communication that showcases my skills in a unified, technically sound manner, tailored to specific technical audiences and scenarios. 
 
 ## PROFESSIONAL SELF-ASSESSMENT
 
-As a senior at Southern New Hampshire University, my time in the Computer Science department has been transformative, providing me with the skills, knowledge, and experiences required to flourish in the world of computing. Completing my curriculum and establishing my ePortfolio has allowed me to highlight my skills, shape my professional objectives and values, and prepare myself to join the industry as a highly marketable individual in the field of computer science.
+As a senior graduating in 2024 from Southern New Hampshire University (SNHU) with a degree in Computer Science, my experience in the program has been remarkable. Completing my curriculum and creating my ePortfolio has enabled me to highlight my talents, establish my career aspirations, and prepare to enter the computer science sector as a highly marketable individual. The program has equipped me with the skills, knowledge, and experiences needed to succeed in the field of computers.
 
-Throughout my education, I have improved my teamwork skills, communicated successfully with stakeholders, and applied fundamental ideas in data structures and algorithms. For example, in my CS360 course, I collaborated with my colleagues to design and construct a full-stack mobile application using Java. This experience not only honed my technical abilities, but it also showed me the value of good communication and teamwork in meeting project objectives.
+Throughout my studies, I have improved my ability to work in some small teams, to discuss effectively with stakeholders, and apply key principles in data structures and algorithms. In my CS360 class, I collaborated with a team to develop and build a full-stack mobile application in Java. This experience not only improved my technical skills, but also emphasized the importance of effective communication and cooperation in meeting project objectives. Similarly, my degree in software engineering and databases has given me the knowledge and abilities necessary to create complex software programs. For example, in CS340, I built a web application dashboard for an animal sanctuary with Python, Flask, and MongoDB. This project expanded my knowledge of data processing efficiency and user-friendly design.
 
-Furthermore, my education in software engineering and databases has provided me with the knowledge and abilities required to build and construct sophisticated software applications. For example, in my CS340 course, I worked on a web application dashboard for an animal shelter, using my expertise in Python, Flask, and MongoDB to develop and deploy a user-friendly dashboard that improved data processing efficiency.
+Security has been a key topic throughout my education. I've learnt the value of securing software systems against vulnerabilities and threats. A major effort involves improving a C++ application with validation and providing a binary search for bid ID retrieval. This proved my abilities to increase software security and performance.
 
-Additionally, my curriculum has concentrated on security, and I've learnt the necessity of protecting software systems from vulnerabilities and attacks. I've proved my abilities to increase software security and performance through projects such as adding validation and binary search for bid ID retrieval to a C++ program.
+My ePortfolio demonstrates my complete skill set and experiences. The associated artifacts demonstrate my skills in software design and engineering, data structures and algorithms, and database administration. They demonstrate my commitment to developing safe, efficient, and user-friendly software solutions. The first artifact is a React-based internet application that I originally built as a personal ePortfolio. I later enhanced it with the Next.js framework, adding more components to improve the UI/UX. This project demonstrates my abilities to design and construct complicated software systems, as well as provide intuitive user interfaces. 
 
-In summary, my artifacts, which include the React-based website application, the C++ binary search tree program, and the online application dashboard, demonstrate my whole spectrum of computer science skills and abilities. They emphasize my experience in software design and engineering, my knowledge of data structures and algorithms, and my dedication to software security and performance.
+The second artifact is a C++ program that efficiently stores and retrieves bid information using a binary search tree. This artifact was created for CS260 to demonstrate my mastery of C++ and sorting algorithms. I upgraded the application by adding validation and refining the search capabilities, which increased its efficiency and usability. The final artifact is a web application dashboard for the Grazioso Salvare Animal Shelter, which was developed for CS340. It demonstrates my proficiency with Python, Dash, Flask, MongoDB, and Plotly. The changes I made increased data processing efficiency, showcasing my ability to optimize code and provide successful database solutions.
 
-As I prepare to join the industry, I am certain that my experiences at Southern New Hampshire University have equipped me to face the challenges of the computer science sector and contribute meaningfully to any firm. I am delighted about the prospects that await me, and I look forward to using my talents and experience to address hard issues in computer science.
-
-The Computer Science curriculum was crucial in my career development, equipping me to make a significant contribution to the area. As I near the end of my voyage, I am reminded of a mountain climber approaching the top, drawing on my motivation and focus. Creating my ePortfolio has been a huge accomplishment, demonstrating my capacity to apply creative methodologies. For example, I've developed functionality for importing CSV data files into MongoDB using Python's PyMongo driver, the Dash framework, and Python source code, showcasing my ability to give value through computer solutions. In addition, my ePortfolio demonstrates my competence in creating and assessing computer solutions utilizing algorithmic principles and industry standards, with a focus on security throughout the development process. Looking ahead, I am excited about expanding.
+To summarize, finishing my studies and establishing my ePortfolio have helped me prepare for a future in computer science. These experiences have provided me with the technical skills and professional qualities required to flourish in this sector. As I look forward to future chances, I am convinced that my education has equipped me to make important contributions to the field of computer science. This professional self-assessment serves as an introduction to my portfolio, emphasizing the breadth of my skills and abilities while also exhibiting my preparedness to thrive in the field of computer science.
 
 ---
 
 ## REFINEMENT PLAN AND CODE REVIEW
 
-When preparing my artifacts for improvement, I performed a comprehensive code review accompanied by a video presentation. This study concentrated on the present functionality of each item, such as the React-Based Website Application, the C++ binary search tree program, and the animal shelter online application dashboard. I reviewed the code structure, logic, efficiency, functionality, security, testing, commenting, and documentation to find opportunities for improvement. The proposed changes to each artifact address these challenges while also demonstrating my expertise in software design and engineering, algorithms and data structures, and database management. By matching these upgrades with course results, I hope to demonstrate my progress and knowledge in the field of computer science. The video presentation was an invaluable help in directing my enhancements and assuring their coherence.
+Before finishing my ePortfolio objects, I did an informal code review to discuss my objectives for changes and enhancements. This method guarantees that my portfolio fulfills high software development standards and is successfully aligned with course objectives. Here's a summary of the improvements made to each artifact:
 
-[Code Review Video](#)
+For artifact 1, The original version of the React-based internet application had a simple user interface with fundamental features. During the code analysis phase, I worked to improve the organization, logic, efficiency, functionality, security, testing, commenting, and documentation. This involved rebuilding the component hierarchy to improve scalability and maintainability, improving state management for better performance, and introducing client-side validation to ensure secure data processing. I also increased the application's capabilities to incorporate dynamic content loading and improved user interaction. Furthermore, I included Next.js for server-side rendering, which improved SEO and initial load efficiency. These changes demonstrate my proficiency with React.js, Next.js, UI/UX design, state management, and secure coding methods.
+
+For artifact 2 initially, the C++ binary search tree software used a binary search tree structure to effectively maintain bid information. Through extensive code analysis, I discovered opportunities for improvement in structure, logic, efficiency, functionality, and security. I improved the binary search method to speed up bid ID retrieval and included rigorous input validation to assure data integrity. 
+
+For artifact 3, originally created for the CS340 class, the web application dashboard allowed users to filter data, view tables, and explore charts and maps relating to rescue operations. During the code analysis phase, I discovered ways to improve the structure, functionality, efficiency, and security. I focused on improving data retrieval and processing by utilizing sophisticated MongoDB capabilities. This improved the dashboard in a wholistic technical view, particularly when dealing with huge datasets, and guaranteed effective data management.
+
+
+[Code Review Video](https://www.youtube.com/watch?v=BMCMSwE_3tU)
 
 ---
 
