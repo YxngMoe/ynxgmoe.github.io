@@ -22,6 +22,9 @@
 
 Hello! My name is Mohamed Babiker, and I am a senior majoring in Computer Science at Southern New Hampshire University who will graduate 06/2024. This GitHub page is dedicated to the Capstone ePortfolio, which was my final semester assignment. I've been working really hard to complete this project in order to display my academic path and the abilities I've acquired. This ePortfolio shows my professional development, showcasing well-crafted written and visual communication that showcases my skills in a unified, technically sound manner, tailored to specific technical audiences and scenarios. 
 
+![Me](port.png)
+
+
 ## PROFESSIONAL SELF-ASSESSMENT
 
 As a senior graduating in 2024 from Southern New Hampshire University (SNHU) with a degree in Computer Science, my experience in the program has been remarkable. Completing my curriculum and creating my ePortfolio has enabled me to highlight my talents, establish my career aspirations, and prepare to enter the computer science sector as a highly marketable individual. The program has equipped me with the skills, knowledge, and experiences needed to succeed in the field of computers.
