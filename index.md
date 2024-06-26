@@ -71,7 +71,7 @@ Furthermore, I redesigned the user interface to make it more intuitive and user-
 
 ‭Reflecting on the process of improving this artifact, I faced a number of hurdles and learning‬ opportunities. I learned the value of scalability and effective data management in web‬ applications. Using comments from peers and professors, I worked to improve the component‬ organization, responsiveness, and overall user experience. The project necessitated thorough‬ consideration of design concepts and user interface improvements, which expanded my‬ knowledge of frontend programming best practices.‬
 
-[Continued Narrative for Artifact 1](narratives/artifact 1 narrative.pdf)
+[Continued Narrative for Artifact 1](narratives/Artifact 1 Narrative.pdf)
 
 **Running Project Locally**
 
@@ -95,7 +95,7 @@ Reflecting on the upgrade process, I realized the value of precise algorithm des
 
 Overall, the improvements I made to this artifact demonstrate my knowledge of data structures and algorithms, as well as my ability to develop and execute efficient computing solutions. They are well aligned with course goals linked to algorithmic concepts and problem-solving skills, proving my readiness to face tough problems in computer science.
 
-[Continued Narrative for Artifact 2](narratives/artifact 2 narrative.pdf)
+[Continued Narrative for Artifact 2](narratives/Artifact 2 Narrative.pdf)
 
 **Running Project Locally**
 
@@ -120,7 +120,7 @@ Enhancing this item presented several learning opportunities and difficulties. I
 
 The artifact's modification effectively addressed multiple course objectives, including building database solutions for efficient data management and retrieval, improving algorithms to increase application performance, and demonstrating competency in web development using MongoDB and associated technologies.
 
-[Continued Narrative for Artifact 3](narratives/artifact 3 narrative.pdf)
+[Continued Narrative for Artifact 3](narratives/Artifact 3 Narrative.pdf)
 
 **Running Project Locally**
 
