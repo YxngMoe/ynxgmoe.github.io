@@ -1,5 +1,3 @@
-👋🏽 **Welcome!**
-
 ![Me](port.PNG)
 
 [INTRODUCTION](#INTRODUCTION)
