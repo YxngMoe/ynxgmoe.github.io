@@ -55,7 +55,9 @@ For artifact 3, originally created for the CS340 class, the web application dash
 
 ## ARTIFACTS
 
-### Artifact 1: Software Design and Engineering
+### Artifact 1: Software Design and Engineering ‭<!-- Before Button (link to GitHub) --> [Before](https://github.com/YxngMoe/ynxgmoe.github.io/tree/main/CS260/before)  [After](https://github.com/YxngMoe/ynxgmoe.github.io/tree/main/CS260/after)
+
+![Artifact Picture](assets/img/PW.png)
 
 For my first artifact in Software Design and Engineering, I focused on improving my React-based ePortfolio, a project that started during my junior year when I desperately needed a professional portfolio for internship applications. Initially, the ePortfolio was simple, with little complexity and effective security features in its backend structure. To improve its usefulness and attractiveness, I completely overhauled my CS499 course capstone project. Using Next.js, I redesigned the entire framework to improve efficiency by leveraging its efficient component rendering features. This transformation entailed smoothly integrating different components while keeping to the structure specified for the GitHub website, resulting in a secure and dynamic user experience. The project not only demonstrates my progress in software design, but also emphasizes my dedication to improving it.
 
@@ -69,15 +71,7 @@ Furthermore, I redesigned the user interface to make it more intuitive and user-
 
 [Continued Narrative for Artifact 1](narrative/artifact 1 narrative.pdf)
 
-‭<!-- Before Button (link to GitHub) -->
-[Before](https://github.com/YxngMoe/ynxgmoe.github.io/tree/main/CS260/before) 
-
-<!-- After Button (link to GitHub) -->
-[After](https://github.com/YxngMoe/ynxgmoe.github.io/tree/main/CS260/after)
-
 [![Artifact 1 Review](https://img.youtube.com/vi/BMCMSwE_3tU/0.jpg)](https://www.youtube.com/watch?v=BMCMSwE_3tU)
-
-![Artifact Picture](assets/img/PW.png)
 
 
 
