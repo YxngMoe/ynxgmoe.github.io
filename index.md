@@ -77,6 +77,7 @@ To execute the Next.js project after downloading it, open your terminal or comma
 [Continued Narrative for Artifact 1](narrative/artifact 1 narrative.pdf)
 
 Artifact 1 Review Video
+
 [![Artifact 1 Review Video](https://img.youtube.com/vi/BMCMSwE_3tU/0.jpg)](https://www.youtube.com/watch?v=BMCMSwE_3tU)
 
 
