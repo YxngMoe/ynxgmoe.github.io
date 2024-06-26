@@ -1,15 +1,19 @@
-# Mohamed Babiker
+## MOHAMED BABIKER EPORTFOLIO 
+# SNHU CS499 - Computer Science Capstone
 
-## HOME
-
-👋🏽 **MOHAMED BABIKER EPORTFOLIO**  
-**SNHU CS499 - Computer Science Capstone**
-
-As a senior graduating in 2024 from Southern New Hampshire University's (SNHU) Computer Science degree, my ePortfolio highlights the conclusion of my academic experience and the skills I've gained. It highlights my progress and accomplishments throughout the program, including honor rolls for high-quality results. The ePortfolio reflects my professional progress by displaying well-crafted written and visual communication that showcases my talents in a cohesive, technically sound manner that is customized to specific technical audiences and situations.
-
-[View E-Portfolio Project on Github](#)
+[INTRODUCTION](#INTRODUCTION)
+[PROFESSIONAL SELF-ASSESSMENT](#PROFESSIONAL)
+[SKILLS](#SKILLS)
+[CODE REVIEW](#CODEREVIEW)
+[ARTIFACT 1 (Software design and engineering)](#Software)
+[ARTIFACT 2 (Algorithms and data structure)](#Algorithms)
+[ARTIFACT 3 (Databases)](#Databases)
 
 ---
+
+## INTRODUCTION
+
+As a senior graduating in 2024 from Southern New Hampshire University's (SNHU) Computer Science degree, my ePortfolio highlights the conclusion of my academic experience and the skills I've gained. It highlights my progress and accomplishments throughout the program, including honor rolls for high-quality results. The ePortfolio reflects my professional progress by displaying well-crafted written and visual communication that showcases my talents in a cohesive, technically sound manner that is customized to specific technical audiences and situations.
 
 ## PROFESSIONAL SELF-ASSESSMENT
 
