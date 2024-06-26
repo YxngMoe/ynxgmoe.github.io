@@ -69,7 +69,15 @@ Furthermore, I redesigned the user interface to make it more intuitive and user-
 
 [Continued Narrative for Artifact 1](narrative/artifact 1 narrative.pdf)
 
-‭
+‭<!-- Before Button (link to GitHub) -->
+[Before](https://github.com/YxngMoe/ynxgmoe.github.io/tree/main/CS260/before) 
+
+<!-- After Button (link to GitHub) -->
+[After](https://github.com/YxngMoe/ynxgmoe.github.io/tree/main/CS260/after)
+
+[![Artifact 1 Review](https://img.youtube.com/vi/BMCMSwE_3tU/0.jpg)](https://www.youtube.com/watch?v=BMCMSwE_3tU)
+
+![Artifact Picture](assets/img/PW.png)
 
 
 
