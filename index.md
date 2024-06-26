@@ -2,6 +2,8 @@
 
 👋🏽 **Welcome!**
 
+![Me](port.PNG)
+
 [INTRODUCTION](#INTRODUCTION)
 
 [PROFESSIONAL SELF-ASSESSMENT](#PROFESSIONAL)
@@ -21,9 +23,6 @@
 ## INTRODUCTION
 
 Hello! My name is Mohamed Babiker, and I am a senior majoring in Computer Science at Southern New Hampshire University who will graduate 06/2024. This GitHub page is dedicated to the Capstone ePortfolio, which was my final semester assignment. I've been working really hard to complete this project in order to display my academic path and the abilities I've acquired. This ePortfolio shows my professional development, showcasing well-crafted written and visual communication that showcases my skills in a unified, technically sound manner, tailored to specific technical audiences and scenarios. 
-
-![Me](port.PNG)
-
 
 ## PROFESSIONAL SELF-ASSESSMENT
 
